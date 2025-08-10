@@ -4,7 +4,7 @@
 
 Hi, I’m **Atilla** — a fullstack developer focused on building fast, scalable, and real-time web & mobile applications.
 
-I specialize in designing systems that go beyond traditional CRUD apps — combining **.NET**, **Rust**, **C++**, and **React** to deliver performance-oriented solutions with modern UX and solid infrastructure.
+I specialize in designing systems that go beyond traditional CRUD apps — combining **.NET**, **Rust**, **C/C++**, and **React** to deliver performance-oriented solutions with modern UX and solid infrastructure.
 
 ---
 
